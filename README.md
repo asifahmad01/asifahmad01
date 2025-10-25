@@ -104,7 +104,7 @@ I'm an indie Full-Stack Software Developer and Machine Learning Enthusiast from 
 </a> -->
 
 <a  href = "https://github.com/asifahmad01">
-<img  width = 450  src= "https://streak-stats.demolab.com?user=ansarjarvis&theme=algolia&date_format=M%20j%5B%2C%20Y%5D"/>
+<img width="450" src="https://streak-stats.demolab.com?user=asifahmad01&theme=algolia&date_format=M%20j%5B%2C%20Y%5D"/>
 </a>
 
 ---
