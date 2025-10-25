@@ -93,12 +93,13 @@ I'm an indie Full-Stack Software Developer and Machine Learning Enthusiast from 
 
 <br>
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ansarjarvis?cardType=github&theme=algolia&preferLogin=false)](https://git.io/awesome-stats-card)
+[![My Awesome Stats][![Asif Ahmad's GitHub stats](https://awesome-github-stats.azurewebsites.net/user-stats/asifahmad01?cardType=github&theme=algolia&preferLogin=false)](https://github.com/asifahmad01)
 
-<!-- <a href = "https://github.com/ansarjarvis">
+
+<!-- <a href = "">
 <img width = 400 src= "https://github-readme-stats.vercel.app/api?username=ansarjarvis&count_private=true&show_icons=true&theme=radical"/>
 </a> -->
-<!-- <a href = "https://github.com/ansarjarvis">
+<!-- <a href = "https://github.com/asifahmad01/asifahmad01">
 <img width = 450 src= "https://github-readme-stats.vercel.app/api/top-langs/?username=ansarjarvis&langs_count=6&layout=compact&theme=algolia"/>
 </a> -->
 
