@@ -93,7 +93,7 @@ I'm an indie Full-Stack Software Developer and Machine Learning Enthusiast from 
 
 <br>
 
-[![My Awesome Stats][![Asif Ahmad's GitHub stats](https://awesome-github-stats.azurewebsites.net/user-stats/asifahmad01?cardType=github&theme=algolia&preferLogin=false)](https://github.com/asifahmad01)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/asifahmad01?cardType=github&theme=algolia&preferLogin=false)](https://github.com/asifahmad01)
 
 
 <!-- <a href = "">
