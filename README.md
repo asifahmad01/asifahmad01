@@ -8,9 +8,9 @@ I'm an indie Full-Stack Software Developer and Machine Learning Enthusiast from 
 - 👯 Looking to collaborate on projects that solve real-world problems.
 - 💼 Open for freelance opportunities. Feel free to reach out via [Email](mailto:5841asifanjum@gmail.com)
 
-<a href="https://www.linkedin.com/in/mohammad-ansar-4ab39421a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
-<a href="https://instagram.com/ansar_jarvis"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://dev.to/ansarjarvis"><img src="https://img.shields.io/badge/dev.to-0A0A0A.svg?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/md-asif-anjum-0aa18a1a8/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
+<a href="https://instagram.com/asifahmad__01"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<!-- <a href="https://dev.to/ansarjarvis"><img src="https://img.shields.io/badge/dev.to-0A0A0A.svg?style=for-the-badge&logo=devdotto&logoColor=white"/></a> -->
 
 ---
 
