@@ -20,9 +20,10 @@ I'm an indie Full-Stack Software Developer and Machine Learning Enthusiast from 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,javascript,typescript,redux,nodejs,express,mongodb,mysql,postgres,firebase,html,css,tailwindcss,bootstrap,materialui,bash,cpp,python,git,github,linux&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,express,python,flask,django,cpp,html,css,tailwindcss,bootstrap,mongodb,mysql,postgres,git,github,docker,aws,vscode,postman&theme=dark&perline=11" />
   </a>
 </p>
+
 
 <!--
 <br>
