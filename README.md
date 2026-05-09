@@ -90,11 +90,11 @@ I'm an indie Full-Stack Software Developer and Machine Learning Enthusiast from 
 
 <!-- ## 📊 Stats -->
 
-## 📊 Stats
+<!-- ## 📊 Stats
 
 <br>
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/asifahmad01?cardType=github&theme=algolia&preferLogin=false)](https://github.com/asifahmad01)
+<!-- [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/asifahmad01?cardType=github&theme=algolia&preferLogin=false)](https://github.com/asifahmad01)
 
 
 <!-- <a href = "">
@@ -104,7 +104,7 @@ I'm an indie Full-Stack Software Developer and Machine Learning Enthusiast from 
 <img width = 450 src= "https://github-readme-stats.vercel.app/api/top-langs/?username=ansarjarvis&langs_count=6&layout=compact&theme=algolia"/>
 </a> -->
 
-<a  href = "https://github.com/asifahmad01">
+<!-- <a  href = "https://github.com/asifahmad01">
 <img width="450" src="https://streak-stats.demolab.com?user=asifahmad01&theme=algolia&date_format=M%20j%5B%2C%20Y%5D"/>
 </a>
 
